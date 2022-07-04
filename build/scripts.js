@@ -1,0 +1,1 @@
+function login(){console.log("user logged in")}function task(){console.log("All tasks completed successfully")}module.exports=login,module.exports=task;
